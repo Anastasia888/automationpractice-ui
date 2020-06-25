@@ -1,1 +1,1 @@
-# automationpractice-ui
+# How to execute UI tests
