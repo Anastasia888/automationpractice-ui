@@ -9,7 +9,6 @@ public class AccountPage {
     private SelenideElement actualAccountName=$(".account");
 
     public void logout() {
-
         logoutItem.shouldBe(Condition.visible).click();
     }
 
